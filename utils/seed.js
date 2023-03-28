@@ -18,4 +18,4 @@ connection.once("open", async () => {
   console.table(students);
   console.info('Seeding complete! 🌱');
   process.exit(0);
-});
+;
