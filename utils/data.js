@@ -1,6 +1,8 @@
-const usernamenames = [
-
-];
-
-// Get a random item given an array
-const getRandomArrItem = (arr) => arr[Math.floor(Math.random() * arr.length)];
+[
+    {"username": "kevinl206",
+      "email": "kevinl206@test.com"},
+    {"username": "kevin",
+    "email": "kevin@test.com"}, 
+    {"username": "test",
+    "email": "test@test.com"}
+]
