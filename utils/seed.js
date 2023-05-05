@@ -1,5 +1,5 @@
 const connection = require('../config/connection');
-const { User, Thought } = require('../models/index')
+const { User, Thought } = require('../models')
 const userData = require('./userData.json');
 const chalk = require('chalk')
 
